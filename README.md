@@ -80,6 +80,8 @@ afterEach(function () {
 Provide way to testing negative and positive transactions.
 
 Negative testing commonly referred to as error path testing or failure testing is generally done to ensure the stability of the application.
+
+[Source](https://github.com/andriy-baran/solidity-unittests-helpers/blob/master/lib/asserts.js)
 ```javascript
 var SolUnittestHelpers = require("solidity-unittests-helpers");
 
@@ -107,7 +109,7 @@ asserts.doesNotThrow(fn, 'Any Error thrown must not have this message');
 
 * ## latestTime
 
-Get timestamp from the latest block
+Get timestamp from the latest block [Source](https://github.com/andriy-baran/solidity-unittests-helpers/blob/master/lib/latestTime.js)
 
 ```javascript
 var SolUnittestHelpers = require("solidity-unittests-helpers");
@@ -118,7 +120,9 @@ console.log("time:", time);
 // ==> "time: 1528634956"
 ```
 
-* ## increaseTime
+## increaseTime
+
+[Source](https://github.com/andriy-baran/solidity-unittests-helpers/blob/master/lib/increaseTime.js)
 
 ### duration
 
