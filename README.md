@@ -24,7 +24,7 @@ To add an entry to your package.json's devDependencies:
 npm install solidity-unittests-helpers --save-dev
 ```
 
-## Remove a package
+## Remove the package
 
 [npm-uninstall](https://docs.npmjs.com/cli/uninstall)
 
