@@ -188,6 +188,8 @@ await console.log('after increaseTimeTo: ', SolUnittestHelpers.latestTime());
 
 * **Andrii Baran** - [andriy-baran](https://github.com/andriy-baran)
 
+* **Serhii Budnik** - [Zikot4](https://github.com/Zikot4)
+
 
 ## License
 
