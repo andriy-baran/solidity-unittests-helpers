@@ -15,3 +15,6 @@ exports.increaseTimeTo = increaseTimeTo;
 
 let duration = require('./lib/increaseTime').duration;
 exports.duration = duration;
+
+let latestTime = require('./lib/latestTime').latestTime;
+exports.latestTime = latestTime;
