@@ -120,7 +120,7 @@ console.log("time:", time);
 // ==> "time: 1528634956"
 ```
 
-## increaseTime
+* ## increaseTime
 
 [Source](https://github.com/andriy-baran/solidity-unittests-helpers/blob/master/lib/increaseTime.js)
 
